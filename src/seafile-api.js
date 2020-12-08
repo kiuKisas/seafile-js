@@ -1,5 +1,6 @@
 var axios = require('axios');
 var FormData = require('form-data');
+var Blob = require('cross-blob')
 
 class SeafileAPI {
 
